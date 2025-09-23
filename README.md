@@ -24,9 +24,3 @@ Projeto desenvolvido em **Java** para simular a gestão de cadastros de livros u
 - Java 17+  
 - Estruturas de Dados (TAD)  
 
----
-
-## Como executar
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
